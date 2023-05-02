@@ -1,4 +1,4 @@
-# C-Project-2
+# C Project 2
 Introduction to C
 
 This project includes:
